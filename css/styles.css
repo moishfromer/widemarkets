@@ -1,0 +1,19 @@
+h1{
+    text-align:center;
+    margin-bottom: 100px; 
+}
+form{
+    width:500px;
+    margin:auto;
+}
+table{
+    width:80vw;
+    margin:auto;
+}
+td,th{
+    padding: 15px; 
+}
+.error{
+    color:red;
+}
+
